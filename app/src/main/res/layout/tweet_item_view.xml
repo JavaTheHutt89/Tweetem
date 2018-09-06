@@ -13,14 +13,14 @@
 
     <TextView
         android:id="@+id/author_name_text_view"
-        android:text="Devcolibri"
+        android:text="tweetem"
         android:layout_toEndOf="@id/profile_image_view"
         style="@style/TextView.Primary.Bold"
      />
 
     <TextView
         android:id="@+id/author_nick_text_view"
-        android:text="devcolibri"
+        android:text="tweetem"
         android:layout_marginStart="@dimen/text_small_margin"
         android:layout_toEndOf="@id/author_name_text_view"
         style="@style/TextView.Secondary"
